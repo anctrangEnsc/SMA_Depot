@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CreateBalls.unity
+    guid: 03a865bc4dc2243f78eed7b58c22821d
+  - enabled: 1
+    path: Assets/Scenes/ChangeSceneCube.unity
+    guid: 1ab992d20d3634fb7be77ddb750e9845
+  - enabled: 1
+    path: Assets/Scenes/Event.unity
+    guid: 660117215f0045d43b53bc1f41808514
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 55fbc1e4abfb34c4f878be0e882d7a88
+  - enabled: 1
+    path: Assets/Scenes/terrainVille.unity
+    guid: dfb17b089dd1c5440ad2a25c40bd2244
+  m_configObjects: {}

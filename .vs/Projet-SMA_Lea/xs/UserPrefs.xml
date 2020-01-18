@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BAFDBDF6-496C-70AD-6B3D-DD446935051F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BackToMap.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BackToMap.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChangeScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InitMap2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChangeColor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InitMap.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
